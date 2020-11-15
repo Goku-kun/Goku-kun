@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🥅 2020 Goals: Contribute more to Open Source projects and get better at programming
 - ⚡ Fun fact: I like to watch anime and listen to Kpop!
 
-### Connect with me:
+### Reach out to me at:
 
 [<img align="left" alt="https://github.com/Goku-kun" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][email]
 <!--[<img align="left" alt="Goku-kun | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
