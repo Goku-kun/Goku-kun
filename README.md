@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="https://github.com/Goku-kun" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][mailto:jethvadharmarajsinh@gmail.com]
+[<img align="left" alt="https://github.com/Goku-kun" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][email]
 <!--[<img align="left" alt="Goku-kun | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
 [<img align="left" alt="Goku-kun | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <!--[<img align="left" alt="Goku-kun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 
 ![Goku kun's github stats](https://github-readme-stats.vercel.app/api?username=Goku-kun&show_icons=true&theme=radical)
 
+[email]: jethvadharmarajsinh@gmail.com
 [website]: https://github.com/Goku-kun
 [twitter]: https://twitter.com/goku_kun___
 [instagram]: https://instagram.com/goku_kun_
