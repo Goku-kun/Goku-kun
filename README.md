@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Dharma - aka [Goku-kun][website] 👋
 ![Twitter Follow](https://img.shields.io/twitter/follow/goku_kun___?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
-## I'm a Mathematician, Gamer, Developer, and Teacher!
+## I'm a Developer, Mathematician, Gamer, and Teacher!
 
 - 🔭 I'm currently working on Data Science and Web Development 💻
 - 🌱 I’m currently learning everything including Data Science and Web Development. 👤
