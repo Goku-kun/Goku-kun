@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## I'm a Mathematician, Gamer, Developer, and Teacher!
 
-- 🔭 I'm currently working on
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I'm currently working on Data Science and Web Development 💻
+- 🌱 I’m currently learning everything including Data Science and Web Development. 👤
+- 👯 I’m looking to collaborate with other data scientists
 - 🥅 2020 Goals: Contribute more to Open Source projects and get better at programming
-- ⚡ Fun fact: I love to watch anime and listen to Kpop!
+- ⚡ Fun fact: I like to watch anime and listen to Kpop!
 
 ### Connect with me:
 
@@ -54,6 +54,12 @@ Here are some ideas to get you started:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+
+
 
 <br />
 <br />
