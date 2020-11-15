@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ![Goku kun's github stats](https://github-readme-stats.vercel.app/api?username=Goku-kun&show_icons=true&theme=radical)
 
-[email]: jethvadharmarajsinh@gmail.com
+[email]: mailto:jethvadharmarajsinh@gmail.com
 [website]: https://github.com/Goku-kun
 [twitter]: https://twitter.com/goku_kun___
 [instagram]: https://instagram.com/goku_kun_
