@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Dharma - aka [Goku-kun][website] 👋
 ![Twitter Follow](https://img.shields.io/twitter/follow/goku_kun___?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
-## I'm a Developer, Mathematician, Gamer, and Teacher!
+## I'm a Developer, Mathematician, Gamer, Community Builder and Teacher!
 
 - 🔭 I'm currently working on Data Science and Web Development 💻
 - 🌱 I’m currently learning everything including Data Science and Web Development. 👤
@@ -64,7 +64,9 @@ Here are some ideas to get you started:
 ![Goku kun's github stats](https://github-readme-stats.vercel.app/api?username=Goku-kun&show_icons=true&theme=radical)
 
 [email]: mailto:jethvadharmarajsinh@gmail.com
-[website]: https://github.com/Goku-kun
+[website]: https://community.codecademy.com/u/mcc8ew/
 [twitter]: https://twitter.com/goku_kun___
 [instagram]: https://instagram.com/goku_kun_
+[codecademychapter]: https://community.codecademy.com/focus-bytes-codecademy-chapter/
+[codecademyprofile]: https://community.codecademy.com/u/mcc8ew/
 <!--[linkedin]: https://linkedin.com/in/-->
