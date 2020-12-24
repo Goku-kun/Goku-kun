@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Dharma - aka [Goku-kun][website] 👋
+[![header image](./resources/images/header.png)][website]
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/goku_kun___?color=1DA1F2&logo=Twitter&style=for-the-badge)
+
+<br/>
+
+### Hi there! 👋
 
 ## I'm a Developer, Mathematician, Gamer, Community Builder and Teacher!
 
@@ -29,9 +34,7 @@ Here are some ideas to get you started:
 ### Reach out to me at:
 
 [<img align="left" alt="https://github.com/Goku-kun" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][email]
-<!--[<img align="left" alt="Goku-kun | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
 [<img align="left" alt="Goku-kun | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<!--[<img align="left" alt="Goku-kun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
 [<img align="left" alt="goku_kun_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
