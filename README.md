@@ -1,20 +1,3 @@
-<!--### Hi there 👋
--->
-<!--
-**Goku-kun/Goku-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 [![header image](./resources/images/header.png)][website]
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/goku_kun___?color=1DA1F2&logo=Twitter&style=for-the-badge)
@@ -28,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working on Data Science and Web Development 💻
 - 🌱 I’m currently learning everything including Data Science and Web Development. 👤
 - 👯 I’m looking to collaborate with other data scientists
-- 🥅 2020 Goals: Contribute more to Open Source projects and get better at programming
+- 🥅 2021 Goals: Contribute more to Open Source projects and get better at programming and learn more Mathematics
 - ⚡ Fun fact: I like to watch anime and listen to Kpop!
 
 ### Reach out to me at:
