@@ -16,9 +16,9 @@
 
 ### Reach out to me at:
 
-[<img align="left" alt="https://github.com/Goku-kun" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][email]
-[<img align="left" alt="Goku-kun | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="goku_kun_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="https://github.com/Goku-kun" width="22px" src="./resources/images/mail.png" />][email]
+[<img align="left" alt="Goku-kun | Twitter" width="22px" src="./resources/images/twitter-icon.png" />][twitter]
+[<img align="left" alt="goku_kun_ | Instagram" width="22px" src="./resources/images/Instagram-icon-WHITE.png" />][instagram]
 
 <br />
 
