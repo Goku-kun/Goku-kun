@@ -1,7 +1,7 @@
 [![header image](./resources/images/header.png)][website]
 
 <p align='center'><a href="https://twitter.com/goku_kun___"><img align="justify" width="250px" src="https://img.shields.io/twitter/follow/nova_xronos?color=1DA1F2&logo=Twitter&style=for-the-badge" /></a></p>
-<p align='center'><a href="https://www.buymeacoffee.com/novachrono"><img align="justify" width="150px" src="./resources/images/coffee.png" /></a></p>
+<p align='center'><a href="https://www.buymeacoffee.com/novachrono"><img align="justify" width="250px" src="./resources/images/coffee.png" /></a></p>
 
 <br/>
 
