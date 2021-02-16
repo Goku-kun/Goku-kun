@@ -2,6 +2,7 @@
 
 <p align='center'><a href="https://twitter.com/goku_kun___"><img align="justify" width="250px" src="https://img.shields.io/twitter/follow/nova_xronos?color=1DA1F2&logo=Twitter&style=for-the-badge" /></a></p>
 <p align='center'><a href="https://www.buymeacoffee.com/novachrono"><img align="justify" width="250px" src="./resources/images/coffee.png" /></a></p>
+<p align='center'><img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FGoku-kun" alt="Visitor Count"></p>
 
 <br/>
 
