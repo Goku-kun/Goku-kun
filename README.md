@@ -4,7 +4,7 @@
 
 <p align='center'><a href="https://twitter.com/goku_kun___"><img align="justify" width="250px" src="https://img.shields.io/twitter/follow/nova_xronos?color=1DA1F2&logo=Twitter&style=for-the-badge" /></a></p>
 <p align='center'><a href="https://www.buymeacoffee.com/novachrono"><img align="justify" width="250px" src="./resources/images/coffee.png" /></a></p>
-<p align='center'><img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FGoku-kun" alt="Visitor Count"></p>
+<p align='center'><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGoku-kun&count_bg=%2379C83D&title_bg=%23555555&icon=javascript.svg&icon_color=%23F6FF57&title=Visitor+count%28daily%2Ftotal%29&edge_flat=false"/></a></p>
 
 <br/>
 
