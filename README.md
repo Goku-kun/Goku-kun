@@ -57,7 +57,7 @@
 <br />
 <br />
 
-![Goku kun's github stats](https://github-readme-stats.vercel.app/api?username=Goku-kun&show_icons=true&theme=radical)
+<!--![Goku kun's github stats](https://github-readme-stats.vercel.app/api?username=Goku-kun&show_icons=true&theme=radical)-->
 
 [email]: mailto:jethvadharmarajsinh@gmail.com
 [website]: https://community.codecademy.com/u/mcc8ew/
