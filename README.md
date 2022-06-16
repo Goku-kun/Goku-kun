@@ -10,7 +10,7 @@
 
 ### Hi there! 👋
 
-## I'm a Developer, Mathematician, Community Builder, Teacher, and a casual Gamer!
+## I'm a Developer, Mathematician, Teacher, and a casual Gamer!
 
 - 🔭 I'm currently working on Web Development 💻
 - 🌱 I’m currently learning web development with JS and mobile development using Flutter and data science using python3. 👤
