@@ -51,8 +51,6 @@
 
 <img align="left" alt="GitHub" width="26px" src="./resources/images/github.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="NeoVim" width="26px" src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4" />
-<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 
 <br />
 <br />
@@ -61,8 +59,8 @@
 
 [email]: mailto:jethvadharmarajsinh@gmail.com
 [website]: https://community.codecademy.com/u/mcc8ew/
-[twitter]: https://twitter.com/goku_kun___
-[instagram]: https://instagram.com/goku_kun_
+[twitter]: https://twitter.com/coder_kun_
+[instagram]: https://instagram.com/nova_xronos
 [codecademychapter]: https://community.codecademy.com/focus-bytes-codecademy-chapter/
 [codecademyprofile]: https://community.codecademy.com/u/mcc8ew/
 
