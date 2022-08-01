@@ -1,7 +1,6 @@
 > for best experience, switch to dark mode.
 
 <p align='center'><a href="https://twitter.com/coder_kun_"><img align="justify" width="250px" src="https://img.shields.io/twitter/follow/coder_kun_?style=social" /></a></p>
-<p align='center'><a href="https://www.buymeacoffee.com/novachrono"><img align="justify" width="250px" src="./resources/images/coffee.png" /></a></p>
 <p align='center'><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGoku-kun&count_bg=%2379C83D&title_bg=%23555555&icon=javascript.svg&icon_color=%23F6FF57&title=Visitor+count%28daily%2Ftotal%29&edge_flat=false"/></a></p>
 
 <br/>
