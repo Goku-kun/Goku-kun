@@ -16,7 +16,7 @@
 
 
 [email]: mailto:jethvadharmarajsinh@gmail.com
-[website]: 
+[website]: proxy_value
 [twitter]: https://twitter.com/coder_kun_
 [instagram]: https://instagram.com/nova_xronos
 [codecademychapter]: https://community.codecademy.com/focus-bytes-codecademy-chapter/
