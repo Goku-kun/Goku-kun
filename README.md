@@ -7,22 +7,17 @@
 
 ## I'm a Developer, Mathematician, Teacher, and a casual Gamer!
 
-- 🔭 I'm currently working on Web Development 💻
-- 🌱 I’m currently learning web development with JS and mobile development using Flutter and data science using python3. 👤
-- 👯 I’m looking to collaborate with other data scientists and web developers
-- 🥅 2022 Goals: Contribute more to Open Source projects and get better at programming and learn more Mathematics
-- ⚡ Fun fact: I like to watch anime and listen to Kpop!
+- 🔭 I'm currently working as a Full Stack Engineer! 💻
+- 🌱 I’m currently learning new React based meta frameworks and state management libs, and data science using python3. 👤
+- 👯 I’m looking to collaborate with other data scientists and web developers!
+- 🥅 2023 Goals: Contribute more to Open Source projects!
 
 <br />
 
 
-<!--![Goku kun's github stats](https://github-readme-stats.vercel.app/api?username=Goku-kun&show_icons=true&theme=radical)-->
-
 [email]: mailto:jethvadharmarajsinh@gmail.com
-[website]: https://community.codecademy.com/u/mcc8ew/
+[website]: 
 [twitter]: https://twitter.com/coder_kun_
 [instagram]: https://instagram.com/nova_xronos
 [codecademychapter]: https://community.codecademy.com/focus-bytes-codecademy-chapter/
 [codecademyprofile]: https://community.codecademy.com/u/mcc8ew/
-
-<!--[linkedin]: https://linkedin.com/in/-->
