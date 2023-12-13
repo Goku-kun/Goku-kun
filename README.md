@@ -14,6 +14,8 @@
 
 <br />
 
+<img src="resources/images/coffee.png" />
+
 
 [email]: mailto:jethvadharmarajsinh@gmail.com
 [website]: proxy_value
