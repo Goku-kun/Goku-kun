@@ -7,10 +7,9 @@
 
 ## I'm a Developer, Mathematician, Teacher, and a casual Gamer!
 
-- 🔭 I'm currently working as a Full Stack Engineer! 💻
-- 🌱 I’m currently learning new React based meta frameworks and state management libs, and data science using python3. 👤
-- 👯 I’m looking to collaborate with other data scientists and web developers!
-- 🥅 2023 Goals: Contribute more to Open Source projects!
+- 🔭 I'm currently working as a Full Stack Engineer! 💻.
+- 👯 I’m looking to collaborate with other web developers and Go lang projects!
+- 🥅 2024 Goals: Contribute more to Open Source projects!
 
 <br />
 
