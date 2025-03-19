@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently working as a Full Stack Engineer! 💻.
 - 👯 I’m looking to collaborate with other web developers and Go lang projects!
-- 🥅 2024 Goals: Contribute more to Open Source projects!
+- 🥅 2025 Goals: Contribute more to Open Source projects!
 
 <br />
 
@@ -17,5 +17,4 @@
 [website]: proxy_value
 [twitter]: https://twitter.com/coder_kun_
 [instagram]: https://instagram.com/nova_xronos
-[codecademychapter]: https://community.codecademy.com/focus-bytes-codecademy-chapter/
-[codecademyprofile]: https://community.codecademy.com/u/mcc8ew/
+
