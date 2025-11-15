@@ -7,13 +7,13 @@
 
 ## I'm a Developer, Mathematician, Teacher, and a casual Gamer!
 
-- 🔭 I'm currently working as a Full Stack Engineer! 💻.
+- 🔭 I'm currently working as a Founding Engineer! 💻.
 - 👯 I’m looking to collaborate with other web developers and Go lang projects!
 - 🥅 2025 Goals: Contribute more to Open Source projects!
 
 <br />
 
-[email]: mailto:jethvadharmarajsinh@gmail.com
+[email]: mailto:vibes@dharma.coffee
 [website]: proxy_value
 [twitter]: https://twitter.com/coder_kun_
 [instagram]: https://instagram.com/nova_xronos
